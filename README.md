@@ -14,7 +14,7 @@ Before starting, make sure you have the following programs installed:
    Use the following command to clone the remote repository to your local machine. Make sure to replace `REPOSITORY_URL` with the actual URL of the repository.
 
    ```sh
-   git clone https://github.com/kleecollage/ImpuestosApp-Jetpack.git
+   git clone https://github.com/kleecollage/Recognition-JetpackApp.git
 
 1. **Import the Project**
    On Android Studio select "Open an existing Android Studio project".
